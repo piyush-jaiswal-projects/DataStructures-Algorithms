@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c73b8e6b-063d-4e10-9a99-766aad0abe1c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/linearsearchbasicquestion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA Questions/src/com/company/bubblesort&amp;binarysearchbasic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,5 +44,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
